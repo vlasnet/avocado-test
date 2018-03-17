@@ -1,0 +1,12 @@
+.nav-link {
+  margin-left: 25px;
+  text-decoration: none;
+  color: #ffffff;
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+}
+
+.nav-link-active {
+  color: #0f71a1;
+  cursor: pointer;
+}

@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,500,500i,600');
+@import url('https://fonts.googleapis.com/css?family=Taviraj:300,400,400i,500,500i,600,600i');
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+    background-color: #ffffff;
+}
+
+span {
+    color: #1b5772;
+    font-weight: 600;
+}

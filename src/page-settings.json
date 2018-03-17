@@ -1,0 +1,212 @@
+{
+  "header": {
+    "menuItems": [
+      "Idea",
+      "Speakers",
+      "Agenda",
+      "Price",
+      "Registration",
+      "Contact"
+    ],
+    "eventDates": "25-26 March",
+    "eventPlace": "fabrika space"
+  },
+  "idea": {
+    "title": "Idea",
+    "contentText": "Team The Band and Monya Gets get together all Ukrainian It companies on the professional informal meet up, where The best designer will tell you everything about main UI principles, branding. graphical design etc."
+  },
+  "selling": {
+    "title": "Join to meet up",
+    "contentText": "Number of seats is limited. hurry up to get early-flower tickets only for <span>50 $</span>. The world of design is waiting for you!"
+  },
+  "speakers": {
+    "title": "Speakers",
+    "speakers": [
+      {
+        "id": "001",
+        "speakerIcon": "../assets/jess_norton.png",
+        "speakerName": "Jess Norton",
+        "speakerRole": "art-director in Rico Studio"
+      },
+      {
+        "id": "002",
+        "speakerIcon": "../assets/nick_tomson.png",
+        "speakerName": "Nick Tomson",
+        "speakerRole": "art-director in FoxyArt"
+      },
+      {
+        "id": "003",
+        "speakerIcon": "../assets/daniel_rickardo.png",
+        "speakerName": "Daniel Rickardo",
+        "speakerRole": "concept artist in Mangusto"
+      },
+      {
+        "id": "004",
+        "speakerIcon": "../assets/laura_la_benja.png",
+        "speakerName": "Laura la’Benja",
+        "speakerRole": "art-director in Bella studio"
+      },
+      {
+        "id": "005",
+        "speakerIcon": "../assets/jess_norton.png",
+        "speakerName": "Jess Norton",
+        "speakerRole": "art-director in Rico Studio"
+      },
+      {
+        "id": "006",
+        "speakerIcon": "../assets/nick_tomson.png",
+        "speakerName": "Nick Tomson",
+        "speakerRole": "art-director in FoxyArt"
+      },
+      {
+        "id": "007",
+        "speakerIcon": "../assets/daniel_rickardo.png",
+        "speakerName": "Daniel Rickardo",
+        "speakerRole": "concept artist in Mangusto"
+      },
+      {
+        "id": "008",
+        "speakerIcon": "../assets/laura_la_benja.png",
+        "speakerName": "Laura la’Benja",
+        "speakerRole": "art-director in Bella studio"
+      },
+      {
+        "id": "009",
+        "speakerIcon": "../assets/jess_norton.png",
+        "speakerName": "Jess Norton",
+        "speakerRole": "art-director in Rico Studio"
+      },
+      {
+        "id": "010",
+        "speakerIcon": "../assets/nick_tomson.png",
+        "speakerName": "Nick Tomson",
+        "speakerRole": "art-director in FoxyArt"
+      },
+      {
+        "id": "011",
+        "speakerIcon": "../assets/daniel_rickardo.png",
+        "speakerName": "Daniel Rickardo",
+        "speakerRole": "concept artist in Mangusto"
+      },
+      {
+        "id": "012",
+        "speakerIcon": "../assets/laura_la_benja.png",
+        "speakerName": "Laura la’Benja",
+        "speakerRole": "art-director in Bella studio"
+      }
+    ]
+  },
+  "agenda": {
+    "title": "Agenda",
+    "eventDays": [
+      "Saturday, March 25th",
+      "Sunday, March 26th"
+    ],
+    "eventSchedule": [
+      {
+        "id": "000001",
+        "startTime": "10:00",
+        "endTime": "10:45",
+        "title": "Registration",
+        "speakerRole": "",
+        "theme": ""
+      },
+      {
+        "id": "000002",
+        "startTime": "10:45",
+        "endTime": "11:00",
+        "title": "Greeting, Organizator’s speech",
+        "speakerRole": "",
+        "theme": ""
+      },
+      {
+        "id": "000003",
+        "startTime": "11:00",
+        "endTime": "12:00",
+        "title": "Daniel Rickardo",
+        "speakerRole": "concept-artist in Mangusto",
+        "theme": "\"Pipeline character creation\""
+      },
+      {
+        "id": "000004",
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "title": "Daniel Rickardo",
+        "speakerRole": "concept-artist in Mangusto",
+        "theme": "\"Pipeline character creation\""
+      },
+      {
+        "id": "000005",
+        "startTime": "13:00",
+        "endTime": "14:00",
+        "title": "Coffee breack",
+        "speakerRole": "",
+        "theme": ""
+      },
+      {
+        "id": "000006",
+        "startTime": "14:00",
+        "endTime": "15:00",
+        "title": "Daniel Rickardo",
+        "speakerRole": "concept-artist in Mangusto",
+        "theme": "\"Pipeline character creation\""
+      },
+      {
+        "id": "000007",
+        "startTime": "16:00",
+        "endTime": "17:00",
+        "title": "Daniel Rickardo",
+        "speakerRole": "concept-artist in Mangusto",
+        "theme": "\"Pipeline character creation\""
+      },
+      {
+        "id": "000008",
+        "startTime": "17:00",
+        "endTime": "20:00",
+        "title": "talk-show",
+        "speakerRole": "",
+        "theme": ""
+      }
+    ]
+  },
+  "price": {
+    "title": "Price",
+    "productCards": [
+      {
+        "id": "0001",
+        "background": "../assets/snowdrop.png",
+        "productTitle": "Early-flower",
+        "productPrice": "$50",
+        "offerTerm": "1st Feb-1st March",
+        "button": "buy"
+      },
+      {
+        "id": "0002",
+        "background": "../assets/tulipesblanches.png",
+        "productTitle": "Main-flower",
+        "productPrice": "$75",
+        "offerTerm": "26 before event",
+        "button": "buy"
+      },
+      {
+        "id": "0003",
+        "background": "../assets/late_flower.png",
+        "productTitle": "Late-flower",
+        "productPrice": "$100",
+        "offerTerm": "Evnet day",
+        "button": "buy"
+      }
+    ]
+  },
+  "registration": {
+    "title": "Registration",
+    "inputFields": [
+      "Name",
+      "Email",
+      "Phone"
+    ]
+  },
+  "footer": {
+    "address": "Blagovіschenska, str 1, Kharkiv"
+  }
+}
